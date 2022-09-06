@@ -18,4 +18,5 @@ function addNumbers(a, b) {
     return result;
   }
 
-  addNumb
+  //addNumbers 
+  //to see what i wrote in JSdoc
